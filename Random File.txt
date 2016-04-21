@@ -1,6 +1,6 @@
 with no meaningful content
 something added
-Amine testing his commit access from git side.
+Amine testing commit access from the git side.
 I apologize for branching off the root of the repo by mistake :p
 gigaherz was here. Twice.
 Thomas says hi.
