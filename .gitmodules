@@ -1,0 +1,4 @@
+[submodule "somethingtoeat"]
+	path = submoduletoself
+	url = https://gittest.reactos.org:44303/sandbox.git
+	branch = submodulebranch
