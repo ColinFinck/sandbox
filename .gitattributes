@@ -1,4 +1,14 @@
 * text=auto !eol
+Planet_Express/Users/Amy/Amy.txt -text
+Planet_Express/Users/Bender/Bender.txt -text
+Planet_Express/Users/Cubert/Cubert.txt -text
+Planet_Express/Users/Fry/Fry.txt -text
+Planet_Express/Users/Hermes/Hermes.txt -text
+Planet_Express/Users/Hubert/Hubert.txt -text
+Planet_Express/Users/Leela/Leela.txt -text
+Planet_Express/Users/Nibbler/Nibbler.txt -text
+Planet_Express/Users/Scruffy/Scruffy.txt -text
+Planet_Express/Users/Zoidberg/Zoidberg.txt -text
 SVN[!!-~]Folder/NoLineAtEndOfFile.txt -text
 Some[!!-~]Folder/gigaherz[!!-~]was[!!-~]here.txt -text
 /blafile.txt -text

@@ -1,0 +1,1 @@
+"This is Fry writing into this file!" 
