@@ -13,5 +13,6 @@ SVN[!!-~]Folder/NoLineAtEndOfFile.txt -text
 Some[!!-~]Folder/gigaherz[!!-~]was[!!-~]here.txt -text
 /blafile.txt -text
 /blubfile.txt -text
+/build.ninja -text
 /change_something.txt -text
 /testfile.txt -text
